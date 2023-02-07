@@ -57,7 +57,7 @@ const Header = () => {
 
             <div className="sideDrawer">
                 <img className="logo" width="60" height="60" src={logo} alt="No Image"/>
-                <span><Menu size={40} style={{float:'right', margin:'30px'}} onClick={showDrawer} /></span>
+                <span><Menu size={30} style={{float:'right', margin:'30px'}} onClick={showDrawer} /></span>
             </div>
 
 
