@@ -164,7 +164,7 @@ a:hover:before, a:hover:after {
     color: white;
     position: relative;
     top: -1200px;
-    margin-left: 20%;
+    margin-left: 8%;
 }
 #light .intro-header h2{
     margin: 5px;
@@ -367,7 +367,7 @@ a:hover:before, a:hover:after {
         margin: 20px;
     }
     .intro-header{
-        margin-left: 10%;
+        margin-left: 8%;
         top: -1400px;
     }
 }
